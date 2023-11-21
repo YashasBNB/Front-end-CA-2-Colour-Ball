@@ -1,0 +1,28 @@
+body {
+    background-size: cover;
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('14922597.jpg');
+}
+h1{
+    color: white;
+}
+button {
+    width: 68px;
+    height: 40px;
+    border-radius: 40px;
+    background-color: #03045E;
+    background-color: 50%;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+}
+a{
+    color: white;
+}
